@@ -65,4 +65,4 @@ The models are evaluated based on the following key performance indicators:
 
 ## Acknowledgments
 
-This project was developed as part of a comprehensive curriculum covering Natural Language Processing, NLTK, PyTorch, Recurrent Neural Networks (RNNs), LSTMs, and Transfer Learning with Hugging Face - (developed by Analytics Club, IIT Bombay)[https://www.notion.so/Natural-Language-Processing-NLP-28f5dd880a0d805d82d4f1a396487ff4]
+This project was developed as part of a comprehensive curriculum covering Natural Language Processing, NLTK, PyTorch, Recurrent Neural Networks (RNNs), LSTMs, and Transfer Learning with Hugging Face - [developed by Analytics Club, IIT Bombay](https://www.notion.so/Natural-Language-Processing-NLP-28f5dd880a0d805d82d4f1a396487ff4)
